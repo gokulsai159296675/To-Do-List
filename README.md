@@ -49,10 +49,6 @@ HOME PAGE:
 TASK PAGE:
 ![Task Page](https://github.com/gokulsai159296675/To-Do-List/assets/101632890/2dcd646d-7538-4666-8d4d-e7d4a31bd19f)
 
-## Contributing 🤝
-
-Ready to join the league of extraordinary developers? Contributions are more than welcome! If you stumble upon any bugs or have ideas for superheroic improvements, feel free to open an issue or submit a pull request.
-
 ## License 📜
 
 This project is licensed under the [MIT License](LICENSE), because even superpowers need a license.
