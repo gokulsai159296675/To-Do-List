@@ -21,7 +21,7 @@ Make sure you have a modern web browser installed - because your tasks deserve a
 1. Clone the repository:
 
     ```bash
-    git clone https://https://github.com/gokulsai159296675/To-Do-List.git
+    https://github.com/gokulsai159296675/To-Do-List
     ```
 
 2. Open the project folder:
